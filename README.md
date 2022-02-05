@@ -15,7 +15,6 @@
  
 ## Links
  
-  - Link of deployed application: (Heroku)
   - Repository: https://github.com/Raii-Azevedo/LongLife
  
  
