@@ -3,7 +3,7 @@
 ## Long Life
  
 - Prototipo de um website para a academia Long Life
-- Prototype of a website for the Long Life gym
+- Prototype of a website for the Long Life Gym
 
 ## Tecnologia
  
